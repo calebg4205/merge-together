@@ -1,1 +1,5 @@
-# merge-together
+sep
+is
+a
+peppermint
+class
