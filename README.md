@@ -1,5 +1,5 @@
 sep
 is
-a
+an
 peppermint
 class
